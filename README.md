@@ -68,7 +68,7 @@
 Extract the downloaded archive using the password:
 
 ```
-060806
+1515
 ```
 
 ### Step 3 — Run
